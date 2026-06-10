@@ -1,0 +1,6 @@
+bin/
+obj/
+Database/chatdata.db
+*.user
+*.vs
+.vscode/
